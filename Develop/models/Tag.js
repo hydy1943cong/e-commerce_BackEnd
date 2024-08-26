@@ -14,7 +14,7 @@ Tag.init(
       autoIncrement: true,
     },
     product_name: {
-      type: Datatypes.STRING,
+      type: DataTypes.STRING,
     },
   },
   {
