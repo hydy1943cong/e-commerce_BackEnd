@@ -1,4 +1,4 @@
--- Active: 1723506150529@@127.0.0.1@5432@ecommerce_db
+-- Active: 1723506150529@@127.0.0.1@5432@postgres
 -- DROP DATABASE
 DROP DATABASE IF EXISTS ecommerce_db;
 
